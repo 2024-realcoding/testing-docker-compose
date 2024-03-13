@@ -4,3 +4,7 @@
 
 logs/**
 
+data/*
+.idea/*
+*.active
+monitor/metric/prometheus/volume/data/*
